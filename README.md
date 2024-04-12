@@ -1,4 +1,14 @@
-### Hi there 👋
+# Thanks for visiting 👋
+## Here is a liitle bit of information about me.
+
+## Introduction
+My name is Cedric Littman and I live in Central London and travel a lot by bike.
+
+I have experience in engineering, agriculture and food manufacture, sales and have done voluntary work. I live in the UK and have lived in the US. My technical education consists of a BSc in electrical engineering which I took because I was so interested in radio. Since then I taught myself some programming and assembled several PC's. Most recently I have attended a Full Stack and a Python bootcamp.
+
+## Acheivements
+Probably my greatest acheivement was in guiding a vertically integrated dairy business through Thatcher's dof the processing industry eregulation of the dairy industry which resulted in much processor consolidation, and now the four biggest processors are overseas owned, and a large reduction in milk producers resulting in much hardship among farmers. Whereas during this time the business I ran increased profitability and production and sales.
+
 
 <!--
 **CedricLittman/CedricLittman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
