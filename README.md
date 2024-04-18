@@ -12,7 +12,12 @@ I have experience in engineering, agriculture, food manufacture, sales and have 
 ## Acheivements
 Probably my greatest acheivement was in guiding a vertically integrated dairy business that produced cheese from its own milk through Thatcher's deregulation of the dairy industry which resulted in much processor consolidation, with now the four biggest processors being overseas owned, and a large reduction in milk producers resulting in much hardship among farmers. Whereas during this time the business I ran increased profitability and production and sales.
 
+I have also done well in other fields such as technical sales and property management often by exploring the problems presenting themselves from a different angle and finding innovative solutions.
 
+Now I have reawakened my passion for technology by particpating in two bootcamps the fire that gets lit when I get a project working is burning fiercely again and I am looking for a way to keep it going.
+
+## Conclusion
+I would like either to undertake a degree apprenticeship or get a job in software development.
 <!--
 **CedricLittman/CedricLittman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
