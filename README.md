@@ -16,6 +16,12 @@ I have also done well in other fields such as technical sales and property manag
 
 Now I have reawakened my passion for technology by participating in two bootcamps the fire that gets lit when I get a project working is burning fiercely again and I am looking for a way to keep it going.
 
+## What Am I Doing Now?
+Having just finished a Python Bootcamp I am continuing my studies and reinforcing what I learnt aand trying to maintain my Full Stack skills.
+
+## How To Contact Me
+The best way to collar me is by email at cedric@littman.me.uk. I look forward to hearing from you.
+
 ## Conclusion
 I would like either to undertake a degree apprenticeship or get a job in software development.
 <!--
