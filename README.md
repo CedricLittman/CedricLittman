@@ -1,10 +1,11 @@
 # Thanks for visiting 👋
 ## Here is a liitle bit of information about me.
+![Cedric](Cedric.JPG)
 
 ## Introduction
 My name is Cedric Littman and I live in Central London and travel a lot by bike.
 
-![Cedric](Cedric.JPG)
+![Picture of Cedric](Cedric_enlg.jpg)
 
 
 I have experience in engineering, agriculture, food manufacture, sales and have also done voluntary work. I live in the UK and have lived in the US. My technical education consists of a BSc in electrical engineering which I took because I was very interested in radio. Since then I taught myself some programming and have assembled and modified several PC's. Most recently I have attended a Full Stack and a Python bootcamp.
